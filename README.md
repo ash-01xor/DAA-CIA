@@ -1,3 +1,4 @@
 # DAA-CIA
 Sequence alignment problem code
-will be updated
+
+Both the readme and the code will be updated
